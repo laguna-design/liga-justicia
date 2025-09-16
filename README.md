@@ -25,5 +25,3 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Foctocat&psig=AOvV
 
 _itálica_
 
-# Hola Mundo
-Esto es una prueba de otro usuario
